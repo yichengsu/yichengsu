@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Yicheng 👋
+
+Currently exploring AI infrastructure for large language models and multimodal models.
 
 ### 🛠️ Skills & Tools
 
